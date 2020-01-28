@@ -1,0 +1,10 @@
+name=gpu width=4096 height=4096 iterations=2000 grid size=512x256 block size=16x8  min=1.88 max=2.00 mean=2.00 avg=1.96 stdev=0.04
+name=gpu width=1024 height=1024 iterations=2000 grid size=512x256 block size=16x8  min=0.17 max=0.18 mean=0.17 avg=0.17 stdev=0.00
+name=gpu width=512 height=512 iterations=2000 grid size=512x256 block size=16x8  min=0.06 max=0.06 mean=0.06 avg=0.06 stdev=0.00
+name=gpu width=4024 height=4024 iterations=2000 grid size=512x256 block size=16x8  min=1.82 max=1.93 mean=1.92 avg=1.90 stdev=0.04
+name=gpu width=4024 height=4024 iterations=2000 grid size=512x256 block size=16x8  min=1.83 max=2.02 mean=1.87 avg=1.91 stdev=0.05
+name=gpu width=1024 height=1024 iterations=2000 grid size=512x256 block size=16x8  min=0.19 max=0.29 mean=0.29 avg=0.25 stdev=0.03
+name=gpu width=1024 height=1024 iterations=2000 grid size=512x256 block size=16x8  min=0.26 max=0.29 mean=0.29 avg=0.28 stdev=0.01
+name=gpu width=4096 height=4096 iterations=4000 grid size=1024x1024 block size=512x512  min=0.00 max=0.20 mean=0.00 avg=0.04 stdev=0.08
+name=gpu width=1024 height=1024 iterations=5000 grid size=1024x1024 block size=512x256  min=0.00 max=0.00 mean=0.00 avg=0.00 stdev=0.00
+name=gpu width=1024 height=1024 iterations=2000 grid size=1024x1024 block size=512x256  min=0.00 max=0.00 mean=0.00 avg=0.00 stdev=0.00
